@@ -1,0 +1,30 @@
+body {
+  overflow-x: hidden;
+}
+
+#pic1 {
+  background-image: url(assets/img/illustrations/hero-bg.png);
+  background-position: right top;
+  background-size: contain;
+}
+#pic2 {
+  background-image: url(assets/img/illustrations/hero-bg.png);
+  background-position: right top;
+  background-size: contain;
+}
+#pic3 {
+  background-image: url(assets/img/illustrations/bg.png);
+  background-position: left top;
+  background-size: initial;
+  margin-top: -180px;
+}
+#pic4 {
+  background-image: url(assets/img/illustrations/category-bg.png);
+  background-position: right top;
+  background-size: 200px 320px;
+}
+#pic5 {
+  background-image: url(assets/img/illustrations/footer-bg.png);
+  background-position: center;
+  background-size: cover;
+}
